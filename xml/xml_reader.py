@@ -43,7 +43,7 @@ def tager():
                 part.extend(tag)
 
     result[sentence] = part
-    print(result)
+    return result
 
 tager()
     
