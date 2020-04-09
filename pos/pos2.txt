@@ -1,0 +1,9 @@
+ልዩ/ADJ ዞኑ/N ያስገነባቸው/VREL ፕሮጀክቶች/N 50ሺ/NUMCR ነዋሪዎችን/N ተጠቃሚ/ADJ አደረጉ/V ።/PUNC
+በአዳማ/NP ልዩ/ADJ ዞን/N በተጠናቀቀው/VP የበጀት/NP አመት/N በ6.8ሚሊየን/NUMP ብር/N ከተጀመሩት/VP 12/NUMCR ፕሮጀክቶች/N መካከል/PREP አብዛኞቹ/ADJ ተጠናቅቀው/V 50ሺ/NUMCR ነዋሪዎችን/N ተጠቃሚ/N ማድረጋቸው/VN ተገለጸ/V ።/PUNC
+በልዩ/ADJP ዞኑ/N የቴክኒክ/NP አገልግሎትና/NC የከተማ/NP ቦታ/N አስተዳደር/N ክፍል/N ሃላፊ/N አቶ/ADJ ግዛው/N ድንቁ/N ዛሬ/ADV ለዋልታ/NP እንፎርሜሽን/N ማእከል/N እንደገለጹት/VP በልዩ/ADJP ዞኑ/N 13/NUMCR ቀበሌዎች/N ተገንብተው/V ለአገልግሎት/NP የበቁት/VREL የመንገድ/NP ፣/PUNC የግብርናና/NPC የመሰረታዊ/ADJP ልማት/N ፕሮጀክቶች/N ናቸው/AUX ።/PUNC
+ፕሮጀክቶቹም/NC 25ኪሎ/NUMCR ሜትር/N የውስጥ/NP ለውስጥ/NP የጠጠር/NP መንገድ/N ፣/PUNC 1.5/NUMCR ኪሎ/N ሜትር/N የአስፋልት/NP ግንባታና/NC ትገና/N እንዲሁም/PRONP የአንድ/NUMP ድልድይና/N የአንድ/NP ስህፈት-ቤት/N ግንባታን/N ጨምሮ/V 3.8/NUMCR ኪሎ-ሜትር/N የጎርፍ/VREL መውረጃ/N ቦይ/N ግንባታና/NC 4.6/NUMCR ኪሎ-ሜትር/N የቦይ/NP ጠረጋ/N መሆናቸውን/VN ተናግረዋል/V ።/PUNC
+የተቀሩት/VREL ሶስት/NUMCR የገበያ/NP በረንዳዎች/N ፣/PUNC 12/NUMCR ቁጠባ/N ቤቶች/N እና/CONJ የ1.8/NUMP ኪሎ-ሜትር/N የአስፋልት/NP መንገድ/N ስራ/N ሶስት-አራተኛ/NUMOR በመቶ/NUMP የግንባታ/NP ደረጃ/N ላይ/PREP እንደሚገኙና/VPC በተያዘው/VP የበጀት/NP አመት/N ለአገልግሎት/NP ይበቃሉ/V ተብለው/V እንደሚጠብቁ/V አስታውቀዋል/V ።/PUNC
+ከልዩ/ADJP ዞኑና/NC ከመንገድ/NP ፈንድ/N ለፕሮጀክቶች/NP ማስፈጸሚያ/N ከተመደበው/NP 6/NUMCR ሚሊየን/NUMCR 876ሺ/NUMCR ብር/N እስከ/PREP አሁን/N 80/NUMCR በመቶው/NUMP ስራ/N ላይ/PREP መዋሉን/NP ሃላፊው/N ገልጸዋል/V ።/PUNC
+አንዳንድ/PRON የ01/NP ፣/PUNC 02ና/NC 9/N ቀበሌ/N ነዋሪዎች/N በሰጡት/VP አስተያየት/N ልዩ/ADJ ዞኑ/N በተደጋጋሚ/NP የሚከሰተውን/VREL የጎርፍ/NP አደጋ/N ለመከላከል/NP ግንባታ/N በማካሄዱ/VP ይደርስ/V የነበረው/VREL ችግር/N መቀረፉን/VN ተናግረዋል/VN ።/PUNC
+የአዳማ/NP ልዩ/ADJ ዞን/N በተለይ/ADV በክረምት/NP ወራት/N በተደጋጋሚ/NP ለጎርፍ/NP አደጋ/N የምትጋለጥ/VREL መሆኑ/VN ይታወሳል/V ።/PUNC
+ፕሬዚዳንቱ/N ፣/PUNC ተቅላይ/ADJ ሚኒስትሩና/NC የውጪ/NP ጉዳይ/N ሚኒስትር/N አደጋው/N የኢትዮጵያን/NP ህዝብ/N እንዳሳዘነ/VP ገለጹ/V ።/PUNC
