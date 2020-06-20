@@ -46,6 +46,18 @@ class AmharicSegmenter:
                     word = ""
                 previchar = char
                 word += char
+            elif previchar in self.WORD_PUNC:
+                    if len(word) > 0 and previchar != char:
+                        start_position = index - len(word)
+                        tokens.append(
+                            Token(
+                                text=word, start_position=start_position, whitespace_after=True
+                            )
+                        )
+                        word = ""
+                    previchar = char
+                    word += char
+
 
             else:
                 word += char
