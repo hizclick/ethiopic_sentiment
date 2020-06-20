@@ -13,7 +13,7 @@ class AmharicSegmenter:
         if word_punct:
             self.WORD_PUNC = word_punct
         else:
-            self.WORD_PUNC =  ["።","፥","፤","፨","?","!",":","፡","፦","፣"]
+            self.WORD_PUNC =  ["።", "፥", "፤", "፨", "?", "!", ":", "፡", "፦", "፣","፣",";","(",")"]
             
     def amharic_tokenizer(text: str) -> List[Token]:
         """
