@@ -34,6 +34,7 @@ class AmharicSegmenter:
                     )
 
                 word = ""
+                previchar = char
             elif char in self.WORD_PUNC:
                 if len(word) > 0 and previchar != char:
                     start_position = index - len(word)
