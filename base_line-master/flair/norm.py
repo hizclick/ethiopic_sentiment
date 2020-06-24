@@ -85,8 +85,8 @@ def normalize(norm):
     return norm
 
 
-with open('sst_train.txt','r',encoding='utf8') as fin:
-    with open('sst_train2.txt', 'w', encoding='utf8', newline="") as f:
+with open('to positive/sst_dev.txt','r',encoding='utf8') as fin:
+    with open('to positive/sst_dev2.txt', 'w', encoding='utf8', newline="") as f:
          for line in fin:
              f.write(normalize(line))
 
