@@ -76,4 +76,6 @@ def normalize (norm):
 		norm=re.sub('(ፉ[ዋአ])','ፏ',norm)
 		norm=re.sub('[ቊ]','ቁ',norm) 
 		norm=re.sub('[ኵ]','ኩ',norm)
+		norm=re.sub('\s+',' ',norm)
+        
 		return norm
