@@ -29,9 +29,17 @@ Out of 300k tweets collected, we select tweets based Amharic sentiment lexicons 
 ### Data Format
 The data is formated as comma separated value (csv) where each line contains a tweet id and the the the sentiment annotation.
 
+```
+1213084822521950209,neutral
+1213011490372038656,neutral
+1213763702715043840,mixed
+1213764224356421633,neutral
+1212766574337150976,positive
+```
+
 ### Data Instances
 
-The data is split in 90:10:10. The size of the tarining, development and test set will be: 7512, 939, 9xxx
+The data is split in 90:10:10. The size of the tarining, development and test set will be: 7511, 939, 939 instances
 
 
 
