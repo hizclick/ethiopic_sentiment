@@ -27,7 +27,7 @@ The dataset is based on Twitter datasource colected in the months of December 20
 Out of 300k tweets collected, we select tweets based Amharic sentiment lexicons (around 1200 lexicons), a tweet is selected when it contains at least one lexicon. At the end, 9389 tweets are annotated, each tweet by three annotators, using the ASAB social media based annotation tool.
 
 ### Data Format
-The data is formated as comma separated value (csv) where each line contains a tweet id and the the the sentiment annotation.
+The data is formated as comma separated value (csv) where each line contains a tweet id and the sentiment annotation. If you need the cleaned tweets, contact as:  anonymous
 
 ```
 1213084822521950209,neutral
