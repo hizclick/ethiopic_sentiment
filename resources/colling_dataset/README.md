@@ -4,5 +4,34 @@ Then the dataset is divided in a ration of 10%, 10% and 80% for test, developmen
 The dataset folder contain all the three files. In each file
 text the tweet id and sentiment of a tweets are presented. 
 
+Amharic Sentiment Analysis Dataset
+==================================================
+
+
+### Contact
+
+anonymous
+
+### Citation
+
+When using the data in your research or publication, please the paper entiled: "Investigating the Challenges in Amharic Sentiment Analysis: Building Annotation Tools and Classification Models"
+
+
+
+Datasets
+--------
+
+### Description
+
+The dataset is based on Twitter datasource colected in the months of December 2019 and January 2020, targeting only tweets written in the 'Fidel' script.
+Out of 300k tweets collected, we select tweets based Amharic sentiment lexicons (around 1200 lexicons), a tweet is selected when it contains at least one lexicon. At the end, 9389 tweets are annotated, each tweet by three annotators, using the ASAB social media based annotation tool.
+
+### Data Format
+The data is formated as comma separated value (csv) where each line contains a tweet id and the the the sentiment annotation.
+
+### Data Instances
+
+The data is split in 90:10:10. The size of the tarining, development and test set will be: 7512, 939, 9xxx
+
 
 
